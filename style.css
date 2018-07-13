@@ -1,0 +1,102 @@
+img.d-block.img-fluid{
+	width: 1380px;
+	height: 400px;
+	/*background:linear-gradient(to left,#d8cec3,#c8d8ad,#f2d1ae,#c8d8ad,#d8cec3);*/
+	}
+	
+.navbar-brand{
+	font-size: 40px;
+	font-weight: 2.3em;
+	font-family: 'Italianno', cursive;
+	
+}
+body{
+	/*background:linear-gradient(to left, #54534b,#e8b96f,#54534b);*/
+	background-color: #fff;
+}
+a{
+	font-size: 30px;
+	font-weight: 2.5em;
+	font-family: 'Italianno', cursive;
+	
+}
+
+#carouselExampleIndicators{
+	font-family: 'Italianno', cursive;
+	/*background:linear-gradient(to left,#d8cec3,#c8d8ad,#f2d1ae,#c8d8ad,#d8cec3);*/
+	margin-top:20px;
+}
+
+h2{
+	font-size: 55px;
+	color: #fff;
+	font-weight: 1.9em;
+	text-shadow: 1.5px 1.5px #000;
+	font-family: 'Italianno', cursive;
+}
+p{
+	font-size: 50px;
+	color: #fff;
+	/*text-shadow: 1px 1px rgb(229, 224, 135);*/
+	font-family: 'Italianno', cursive;
+}
+#offer{
+	font-style: sans-serif;
+}
+#popover{
+	width: 500px;
+	height: 200px;
+	position: relative;
+	float: left;
+	padding: 10px;
+	margin-left: 40px;
+	margin-right: 10px;
+	margin-top: 10px;
+	background: #222;
+	border-radius: 30px;
+	/*background: linear-gradient(to left,#cec371, #54534b,#cec371);*/
+}
+#popoverButton{
+	background: orange;
+	margin-top: 60px;
+	color:black;
+	margin-left:29%;
+	font-size: 25px;
+	outline: none;
+	border: 2px solid #fff;
+	padding: 15px;
+}
+
+
+#cardContainer{
+	border: 3px solid #000;
+	margin:20px;
+	position: relative;
+	float: right;
+	box-sizing: border-box;
+}
+
+.SForm{
+	margin: 3px;
+	padding: 5px;
+	box-sizing: border-box;
+}
+#Submit{
+	 background: #fff;
+	 border: 2px solid #000;
+	 box-sizing: border-box;
+}
+#appDownload{
+	background: #fff;
+	border: 3px solid orange;
+	position: relative;
+	float: right;
+	margin-top: 10px;
+	margin-right: 40px;
+	padding-left: 20px;
+	width: 630px;
+	height: 200px;
+}
+.card-text{
+	color: #226;
+}
